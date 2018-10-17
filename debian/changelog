@@ -1,3 +1,9 @@
+lliurex-swftools (0.15) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 17 Oct 2018 09:44:28 +0200
+
 lliurex-swftools (0.5) xenial; urgency=medium
 
   * First xenial release
